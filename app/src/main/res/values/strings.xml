@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TempChat</string>
+    <string name="prompt">Talk now</string>
+    <string name="think">Thinking...</string>
+</resources>
